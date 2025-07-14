@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.12.29](https://github.com/akkawell/rust-sdks/compare/rust-sdks/livekit-ffi@0.12.28...rust-sdks/livekit-ffi@0.12.29) - 2025-07-14
+
+### Other
+
+- prevent crash and ensure output buffer size in SoxResampler::flush()
+
 ## [0.12.28](https://github.com/livekit/rust-sdks/compare/rust-sdks/livekit-ffi@0.12.27...rust-sdks/livekit-ffi@0.12.28) - 2025-06-23
 
 ### Fixed
